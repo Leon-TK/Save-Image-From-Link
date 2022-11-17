@@ -1,0 +1,1 @@
+Initial feature - save images from given http(s) links
